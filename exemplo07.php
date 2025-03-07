@@ -1,9 +1,0 @@
-<?php
-    $a = 10;
-    $b = "10";
-    $teste1 = ($s == $b);
-    echo $teste1;
-    echo "<br>";
-    $teste2 = ($a == $b);
-    echo $teste2;
-?>
