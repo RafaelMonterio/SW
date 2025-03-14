@@ -3,5 +3,5 @@
     $msg = $_POST['cxmsg'];
 
 
-echo"Ola , $nome" , " sua mensagem foi:  $msg";
+echo $nome,"Sua mensagem foi:  $msg";
 ?>

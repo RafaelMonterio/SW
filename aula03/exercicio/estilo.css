@@ -1,21 +1,30 @@
 h1{
-    font-size: 80px;
-    font-family: 'Courier New', Courier, monospace;
-    color: gray;
-    margin-left: 800px;
+    font-size: 50px;
+    font-family: 'Segoe UI',sans-serif;
+    color: rgb(7, 1, 63);
+
 }
 
-p{font-size: 50px;
-    margin-left: 730px;
-    color: gray;
+.forms{
+    margin-left: 40%;
+    align-items: 'center';
+    justify-content: 'center';
+}
+
+p{font-size: 25px;
+
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI',sans-serif;
 }
 
 .boton{
     color: gray;
-    margin-left: 735px;
-    font-size: 35px
+    font-size: 25px
 }
 
 .logo{
-    margin-left: 800px;
+    width: 200px;
+    height: 300px;
+
 }
+
